@@ -1,0 +1,60 @@
+h3 {
+   text-align: center;
+   }
+
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 0;
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  justify-content: 40px;
+  align-items: center;
+}
+
+li {
+  display: inline;
+  left: 30;
+  color: white ;
+}
+
+ul a {
+  display: block;
+  padding: 15px;
+  color: black;
+  text-decoration: none;
+  transition: background-color 0.3s, color 0.3s; 
+}
+
+.GroupNames{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Arial';
+    
+  }
+  
+  div{ 
+  text-align: center;
+    font-family: 'Alex Brush', cursive;
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+  }
+
+  body{
+  background-image: url('https://th.bing.com/th/id/R.a707f20935892ac7e94cad659b925069?rik=6cYM1vretdsriQ&pid=ImgRaw&r=0');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+    font-family: 'Arial';
+    }
+
+script{
+text-align: justify;
+
+}
